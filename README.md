@@ -1,3 +1,3 @@
 # testimage
 
-![Logo](Logo Placeholder.png)
+![Logo](Logo_Placeholder.png)
